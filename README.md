@@ -6,7 +6,7 @@ Welcome to my repository showcasing various login page templates. Below you will
 | Templates | Templates |
 |------------|------------|
 | [![Template 1](Images/img1.png)](https://github.com/rushirao17/LoginPages/tree/main/LoginForm1) | [![Template 2](Images/img2.png)](https://github.com/rushirao17/LoginPages/tree/main/LoginForm2) |
-| [![Template 3](Images/img3.png)](https://github.com/rushirao17/LoginPages/tree/main/LoginForm3) | |
+| [![Template 3](Images/img3.png)](https://github.com/rushirao17/LoginPages/tree/main/LoginForm3) | [![Template 2](Images/img4.png)](https://github.com/rushirao17/LoginPages/tree/main/LoginForm4) |
 
 *Note: Template 3 only has a single image so it spans across the second column.*
 
